@@ -6,6 +6,7 @@
     <modules>
         <module>model-mapper-demo</module>
         <module>unit-test-demo</module>
+        <module>flay-array-demo</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
